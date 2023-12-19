@@ -10,3 +10,4 @@
    3. mujoco_py
       To install mujoco_py:
       see https://github.com/openai/mujoco-py
+   4. gym
